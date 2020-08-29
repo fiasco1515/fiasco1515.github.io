@@ -691,7 +691,7 @@ button::-moz-focus-inner {
 	.main-nav{
 		position: absolute;
 		right: 0rem;
-		height: calc(100vh - 8rem);
+		max-height: calc(100vh - 8rem);
 		top: 8rem;
 		background: rgba(0,0,0,.5);
 		width: 50vh;

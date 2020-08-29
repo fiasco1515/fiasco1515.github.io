@@ -119,5 +119,3 @@
     $("a").click(function(event){
       event.preventDefault();
     });
-
-    $(window).height()
